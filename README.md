@@ -1,2 +1,2 @@
-# WWD 131
+# WWD-131
 I will use this repository for all my coursework
