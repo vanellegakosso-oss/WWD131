@@ -1,2 +1,2 @@
 # WWD131
-I will use this reposistory for all my coursework
+I will use this repository for all my coursework
